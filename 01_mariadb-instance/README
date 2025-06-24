@@ -1,0 +1,3 @@
+In order to test database connection: kubectl port-forward svc/mariadb 3306:3306
+
+PSA: Base64 password are generics. 
